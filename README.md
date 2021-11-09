@@ -13,7 +13,7 @@
 
 - 💻 I'm a Junior Frontend devloper
 - 📝 I am currently learning JavaScript, React.
-- 🔥 If you want to know more about me, refer to badges on below
+- 🔥 If you want to know more about me, click on the below badges.
 
 
 <div align="center"> 
