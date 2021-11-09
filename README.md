@@ -1,4 +1,45 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kk3june.kk3june">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Jun;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h2 align="center">
+  Life is not fair. get used to it. <br />
+	A good plan, violently executed now, is better than a perfect plan next week.<br />
+</h2>
+
+- 💻 I'm a Junior Frontend devloper
+- 📝 I am currently learning JavaScript, React.
+- 🔥 If you want to know more about me, refer to badges on below
+
+
+<div align="center"> 
+	
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)](https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kk3june@gmail.com)](mailto:kk3june@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kk3june)](https://medium.com/@kk3june)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kk3june)](https://github.com/kk3june)
+	
+</div>
+
+
+<h3>things i code with</h3>
+
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>
+
+<h3>things i am learning </h3>
+
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kk3june&show_icons=true&locale=en&layout=compact" alt="kk3june" /></p>
 
 <!--
 **kk3june/kk3june** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
