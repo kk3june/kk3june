@@ -20,7 +20,7 @@
 	
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)](https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kk3june@gmail.com)](mailto:kk3june@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kk3june)](https://medium.com/@kk3june)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@kk3june)](https://velog.io/@kk3june)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kk3june)](https://github.com/kk3june)
 	
 </div>
