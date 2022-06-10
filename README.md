@@ -6,16 +6,6 @@
   </a>
 </h1>
 
-<h2 align="center">
-  Life is not fair. get used to it. <br />
-	A good plan, violently executed now, is better than a perfect plan next week.<br />
-</h2>
-
-- 💻 I'm a Junior Frontend devloper
-- 📝 I am currently learning JavaScript, React.
-- 🔥 If you want to know more about me, click on the below badges.
-
-
 <div align="center"> 
 	
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)](https://woozy-stool-6eb.notion.site/Jun-35cd60fcac0545b5afdc53c8a9284650/)
